@@ -1,0 +1,5 @@
+add_subdirectory(ArticulationP)
+#add_subdirectory(HumanSkills)
+#add_subdirectory(HumanSkillsTest)
+#add_subdirectory(Salesman)
+#add_subdirectory(SalesmanTest)

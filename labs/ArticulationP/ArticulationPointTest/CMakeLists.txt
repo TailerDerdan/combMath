@@ -1,0 +1,4 @@
+add_executable(ArticulationPointTest ArticulationPointTest.cpp)
+
+target_link_libraries(ArticulationPointTest PRIVATE ArticulationPointLib)
+target_link_libraries(ArticulationPointTest PRIVATE Catch2::Catch2WithMain)
